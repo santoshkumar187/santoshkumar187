@@ -7,9 +7,9 @@
 
 
 
+- 🌱 I’m currently learning **JavaScript, react.js, PHP, MySQL
 
 
-- 🌱 I’m currently learning **JavaScript, react.js, PHP, MySQL , **
 
 ## 🛠 Skills
 - Languages: JAVASCRIPT, JAVA, PHP, SQL
@@ -19,8 +19,11 @@
 
  📂Projects
  📄 payment_Record_System (https://github.com/santoshkumar187/Pay_Record_System)
+ 
  📄 Currency_convertor (https://github.com/santoshkumar187/Currency-Convertor)
+ 
  📄 Image_generator_bot (https://github.com/santoshkumar187/Currency-Convertor)
+ 
  📄 Music_learning_app(https://github.com/santoshkumar187/Currency-Convertor)
 
 - 📫 How to reach me **santoshingole578@gmail.com**
