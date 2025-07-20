@@ -12,12 +12,14 @@
 
 
 ## 🛠 Skills
+
 - Languages: JAVASCRIPT, JAVA, PHP, SQL
 - Frontend: HTML5, CSS, REACT.JS
 - Backend:PHP, MYSQL
 - Tools: Git, GITHUB,  MySQL, Next.js, Tailwind CSS
 
  📂Projects
+ 
  📄 payment_Record_System (https://github.com/santoshkumar187/Pay_Record_System)
  
  📄 Currency_convertor (https://github.com/santoshkumar187/Currency-Convertor)
@@ -25,8 +27,10 @@
  📄 Image_generator_bot (https://github.com/santoshkumar187/Currency-Convertor)
  
  📄 Music_learning_app(https://github.com/santoshkumar187/Currency-Convertor)
+ 
 
-- 📫 How to reach me **santoshingole578@gmail.com**
+📫 How to reach me **santoshingole578@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
