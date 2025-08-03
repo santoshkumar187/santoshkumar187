@@ -21,13 +21,14 @@
 
  📂Projects
  
- 📄 payment_Record_System (https://github.com/santoshkumar187/Pay_Record_System)
+ 📄 payment_Record_System 
  
- 📄 Currency_convertor (https://github.com/santoshkumar187/Currency-Convertor)
+ 📄 Currency_convertor 
  
- 📄 Image_generator_bot (https://github.com/santoshkumar187/Currency-Convertor)
+ 📄 Image_generator_app
  
- 📄 Music_learning_app(https://github.com/santoshkumar187/Currency-Convertor)
+ 📄 Music_learning_app
+
  
 
 📫 How to reach me **santoshingole578@gmail.com**
