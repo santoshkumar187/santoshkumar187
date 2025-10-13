@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript, DSA, SQL,
+- 🌱 I’m currently learning **JAVASCRIPT,JAVA, DSA, SQL,
 
 
 
@@ -17,7 +17,7 @@
 - Languages: JAVASCRIPT, JAVA, PHP, SQL
 - Frontend: HTML5, CSS, REACT.JS
 - Backend:PHP, MYSQL, NODEJS, 
-- Tools: Git, GITHUB,  MySQL, Next.js, Tailwind CSS
+- Tools: Git, GITHUB,  MYSQL,  TAILWIND CSS
 
  📂Projects
  
