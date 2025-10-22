@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **JAVASCRIPT,JAVA, DSA, SQL,
 
 
-## 🛠 Skills
+# 🛠 Skills
 
 - Languages: JAVASCRIPT, JAVA, PHP, SQL
 - Frontend: HTML5, CSS, REACT.JS
