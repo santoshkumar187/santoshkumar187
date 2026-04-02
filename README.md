@@ -15,18 +15,16 @@
 
 - Languages: JAVASCRIPT, JAVA, PHP, SQL
 - Frontend: HTML5, CSS, REACT.JS
-- Backend:PHP, MYSQL, NODEJS, 
+- Backend:PHP, MYSQL, NODEJS 
 - Tools: Git, GITHUB,  MYSQL,  TAILWIND CSS
 
  📂Projects
  
  📄 payment_Record_System 
  
- 📄 Currency_convertor 
+ 📄 Plateshare_Food Sharing App
  
- 📄 Image_generator_app
- 
- 📄 Music_learning_app
+ 📄 Chat_App
 
  
 
