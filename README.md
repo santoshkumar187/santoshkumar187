@@ -2,39 +2,33 @@
 <h1 align="center">👋 Hello, I'm Santosh Kumar Ingole</h1>
 
 <h3 align="center">
-💻 Aspiring Software Developer | Problem Solver | Passionate about Building Interactive Applications
+💻 Aspiring Software Developer | Problem Solver | Full Stack Developer
 </h3>
 
 <p align="center">
   <img 
-    src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" 
-    alt="coding" 
-    width="280"
-
-
-    
-
+    src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+    alt="coding"
+    width="100%"
+    style="max-width:400px;"
+  />
 </p>
 
-
-
-
-
-
+---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Java, Python, LLM, SQL**
+- 🌱 Currently learning **Java, Python, SQL, LLM**
 - 💡 Interested in **Full Stack Development & AI**
-- 🎯 Goal: Become a skilled **Software Engineer**
-- 📫 Reach me at: **santoshingole578@gmail.com**
+- 🎯 Goal: Become a skilled Software Engineer
+- 📫 Reach me at **santoshingole578@gmail.com**
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -42,7 +36,7 @@
 </p>
 
 ### 🎨 Frontend
-<p>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
@@ -50,7 +44,7 @@
 </p>
 
 ### ⚙ Backend
-<p>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
@@ -58,7 +52,7 @@
 </p>
 
 ### 🧰 Tools
-<p>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
@@ -71,7 +65,7 @@
 
 - 💳 **Payment Record System**
 - 🍱 **Food Sharing App**
-- 💬 **Samvad App (Chat Application)**
+- 💬 **Samvad App (Chat App)**
 
 ---
 
@@ -106,5 +100,6 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumar187&theme=tokyonight" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumar187&theme=tokyonight" width="95%"/>
 </p>
+```
