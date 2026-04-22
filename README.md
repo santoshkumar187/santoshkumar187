@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **JAVA,PYTHON,LLM,SQL**
+- 🌱 I’m currently learning **JAVA, PYTHON, LLM, SQL**
 
 
  🛠 Skills
