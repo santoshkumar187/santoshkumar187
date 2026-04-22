@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">👋 Hello, I'm Santosh Kumar Ingole</h1>
 
 <h3 align="center">
@@ -101,4 +101,3 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumar187&theme=tokyonight" width="70%"/>
 </p>
-```
