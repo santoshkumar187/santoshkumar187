@@ -8,11 +8,10 @@
 
 
 
-- 🌱 I’m currently learning **JAVASCRIPT,JAVA, DSA, SQL,
+- 🌱 I’m currently learning **JAVA,PYTHON,LLM,SQL**
 
 
-# 🛠 Skills
-
+ 🛠 Skills
 - Languages: JAVASCRIPT, JAVA, PHP, SQL
 - Frontend: HTML5, CSS, REACT.JS
 - Backend:PHP, MYSQL, NODEJS 
