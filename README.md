@@ -4,31 +4,27 @@
 💻 Aspiring Software Developer | Problem Solver | Full Stack Developer
 </h3>
 
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-### 🚀 About Me
-
-- 🌱 Learning **Java, Python, SQL, LLM**
-- 💡 Interested in **Full Stack & AI**
-- 🎯 Goal: Software Engineer
-- 📫 **santoshingole578@gmail.com**
-
-</td>
-
-<td width="50%" align="center">
-
+<p align="center">
 <img 
 src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 alt="coding"
-width="100%"
+width="90%"
 style="max-width:350px;"
 />
+</p>
 
-</td>
-</tr>
-</table>
+---
+
+## 🚀 About Me
+
+<p align="center">
+
+🌱 Learning **Java, Python, SQL, LLM**  
+💡 Interested in **Full Stack & AI**  
+🎯 Goal: **Software Engineer**  
+📫 **santoshingole578@gmail.com**
+
+</p>
 
 ---
 
@@ -36,34 +32,34 @@ style="max-width:350px;"
 
 ### 💻 Languages
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
 </p>
 
 ### 🎨 Frontend
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42"/>
 </p>
 
 ### ⚙ Backend
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42"/>
 </p>
 
 ### 🧰 Tools
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="42"/>
 </p>
 
 ---
@@ -72,7 +68,9 @@ style="max-width:350px;"
 
 <p align="center">
 
-💳 **Payment Record System** • 🍱 **Food Sharing App** • 💬 **Samvad App**
+💳 **Payment Record System**  
+🍱 **Food Sharing App**  
+💬 **Samvad App**
 
 </p>
 
@@ -100,10 +98,13 @@ style="max-width:350px;"
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=santoshkumar187&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumar187&layout=compact&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=santoshkumar187&show_icons=true&theme=tokyonight" width="100%" style="max-width:420px;"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumar187&theme=tokyonight" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumar187&layout=compact&theme=tokyonight" width="100%" style="max-width:420px;"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumar187&theme=tokyonight" width="100%" style="max-width:420px;"/>
 </p>
