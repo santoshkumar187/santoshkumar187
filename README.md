@@ -12,18 +12,18 @@
 
 
  🛠 Skills
-- Languages: JAVASCRIPT, JAVA, PHP, SQL
-- Frontend: HTML5, CSS, REACT.JS
-- Backend:PHP, MYSQL, NODEJS 
-- Tools: Git, GITHUB,  MYSQL,  TAILWIND CSS
+- Languages: JAVASCRIPT, JAVA, PYTHON, SQL
+- Frontend: REACT.JS,NEXT.JS,TAILWINDCSS,BOOTSRAP
+- Backend: MYSQL, POSTGRESQL, NODEJS, EXPRESS, MONGODB
+- Tools: Git, GITHUB, VSCODE, ECLIPSE, ANTIGRAVITY, CLAUDE
 
  📂Projects
  
- 📄 payment_Record_System 
+ 📄 PAYMENT_RECORD_SYSTEM 
  
- 📄 Plateshare_Food Sharing App
+ 📄 FOOD_SHARING_APP
  
- 📄 Chat_App
+ 📄 SAMVAD_APP(CHAT APP)
 
  
 
