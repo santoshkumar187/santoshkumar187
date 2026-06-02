@@ -62,8 +62,10 @@
 ## 📂 Projects
 - 🍱 **Food Sharing App**
 - live:-https://plateshare-93v9.onrender.com/register
-- 💳 **Payment Record System**
 - 💬 **Samvad App (Chat Application)**
+- explore:-https://samvad-app-2bdl.onrender.com/  
+- 💳 **Payment Record System**
+
 
 ---
 
