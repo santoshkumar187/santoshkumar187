@@ -94,8 +94,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santoshkumar187&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumar187&layout=compact&theme=tokyonight" width="44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santoshkumar187&show_icons=true&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumar187&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 <!-- <p align="center">
