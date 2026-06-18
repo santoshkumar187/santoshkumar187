@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santoshkumar187&theme=tokyonight" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=santoshkumar187&theme=tokyonight"/>
 </p>
