@@ -100,5 +100,5 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=santoshkumar187&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=santoshkumar187&theme=tokyonight&utm_source=chatgpt.com"/>
 </p>
