@@ -102,5 +102,5 @@
   <img src="https://streak-stats.demolab.com/?user=santoshkumar187&theme=tokyonight" width="97%" />
 </p> -->
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=santoshkumar187&theme=tokyonight&utm_source=chatgpt.com" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=santoshkumar187&theme=tokyonight&utm_source=chatgpt.com" width="55%"/>
 </p>
